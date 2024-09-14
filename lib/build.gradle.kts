@@ -6,7 +6,7 @@ plugins {
 
 val libGroupId = "com.sd.lib.android"
 val libArtifactId = "compose-anim"
-val libVersion = "1.0.0"
+val libVersion = "1.0.0-alpha01"
 
 android {
    namespace = "com.sd.lib.compose.anim"
